@@ -1,4 +1,4 @@
-import { ItemCard } from "../../theme-spy-hub-components/Card";
+import { ItemCard } from "@/components/theme-spy-hub-components/Card";
 
 export default function LandingPage() {
   return (
