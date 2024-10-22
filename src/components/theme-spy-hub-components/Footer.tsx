@@ -7,8 +7,9 @@ export default function Footer() {
                 <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
                     <div>
 
-                        <div className="flex   space-x-2 sm:justify-start">
-                            <img className="h-16 w-16" src="/spy.png" alt="Logo" />
+                        <div className="flex items-center space-x-2 sm:justify-start">
+                            <img className="h-16 w-16 rounded-full" src="/spy.png" alt="Logo" />
+
                             <span className="text-xl item-center justify-center  font-bold">SpyHub</span>
                         </div>
 

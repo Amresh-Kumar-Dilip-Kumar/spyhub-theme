@@ -7,7 +7,8 @@ export default function Navbar() {
             <div className="mx-auto flex h-16 max-w-screen-xl items-center gap-8 px-4 sm:px-6 lg:px-8">
 
                 <a className="flex  items-center justify-center text-black" href="/">
-                    <img className="h-16 w-16" src="/spy.png" alt="Logo" />
+                    <img className="h-16 w-16 rounded-full" src="/spy.png" alt="Logo" />
+
                     <div className="text-center">
                         <span className="text-xl">SpyHub</span>
                         <p className="text-sm text-gray-500">No. 1 spy website</p>
